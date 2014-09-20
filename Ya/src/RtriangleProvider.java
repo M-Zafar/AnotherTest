@@ -2,8 +2,7 @@
  * Created by Zafar Mahmudov on 20.09.2014.
  */
 public final class RtriangleProvider implements  Rtriangle{
-    public int getApexX1() {
-        return 1; }
+    public int getApexX1() { return 1; }
     public int getApexY1() { return 1; }
     public int getApexX2() { return 1; }
     public int getApexY2() { return 1; }
